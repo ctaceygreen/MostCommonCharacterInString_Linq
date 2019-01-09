@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostCommonCharacterInString_Linq", "MostCommonCharacterInString_Linq\MostCommonCharacterInString_Linq.csproj", "{9B0F11A1-2603-491B-A261-516C4536165B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0F11A1-2603-491B-A261-516C4536165B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0F11A1-2603-491B-A261-516C4536165B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0F11A1-2603-491B-A261-516C4536165B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0F11A1-2603-491B-A261-516C4536165B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C52600-5B49-4DC6-A0C4-0D65C3D3B62E}
+	EndGlobalSection
+EndGlobal
